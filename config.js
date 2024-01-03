@@ -20,7 +20,7 @@ global.owner = [
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "" //Ejemplo: +994403003876
 global.confirmCode = ""
 
 global.mods = []
@@ -132,7 +132,7 @@ global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' //Grupo 7 CO
 global.nnnttt3 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
-global.asistencia = '994403003876' //Dudas? escríbeme...
+global.asistencia = '+994403003876' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -172,7 +172,7 @@ global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "593993684821"
+global.nomorown = "+994403003876"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -227,9 +227,9 @@ global.logogit = 'https://tinyurl.com/2qvl9vgs'
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb]
-global.gataMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18]
-global.gataVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4']
-global.gataImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13]
+global.WerkoMenu = [img, img2, img6, img7, img8, img9, img13, img14, img15, img17, img18]
+global.WerkoVidMenu = ['./media/menus/Menuvid1.mp4', './media/menus/Menuvid2.mp4', './media/menus/Menuvid3.mp4']
+global.WerkoImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7, imagen8, imagen9, imagen10, imagen11, imagen12, imagen13]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -264,8 +264,8 @@ global.botdate = `⫹⫺ Date :  ${moment.tz('America/Los_Angeles').format('DD/M
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}`;//America/Los_Angeles
 global.fgif = {
             key: {
-                 participant : '0@s.whatsapp.net'},
-            message: { 
+                 participantes : '0@s.whatsapp.net'},
+            message: { 𝙒𝙚𝙧𝙠𝙤𝘽𝙤𝙩𝙇𝙤𝙨𝙄𝙣𝙫𝙤𝙘𝙖 }
                         "videoMessage": { 
                         "title": wm,
                         "h": `Hmm`,
